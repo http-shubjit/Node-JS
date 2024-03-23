@@ -1,0 +1,3 @@
+javascript embded with c++= node js.
+javascript run in browser but nodejs run in machine.
+nodejs runtime environment for javascript.
