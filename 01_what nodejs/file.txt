@@ -1,0 +1,4 @@
+javascript embded with c++= node js.
+javascript run in browser but nodejs run in machine.
+nodejs runtime environment for javascript.
+node js have core features that have javascript like encrypt,decrypt, filehandling but reomove the all dom manipulation feature/window object  like document.,alert etc...

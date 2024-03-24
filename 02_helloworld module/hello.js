@@ -1,8 +1,5 @@
-console.log("Hello world! node ");
+console.log("Hello world! i am node ");
 const math = require("./math");
-// const fs = require("fs");
 
 console.log(math.add(2, 3));
 console.log(math.sub(2, 3));
-
-// console.log(fs);

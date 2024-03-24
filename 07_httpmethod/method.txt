@@ -1,0 +1,9 @@
+get:When we want to fetch data from server
+
+post:when we send and add some data in to server//use for submit data to server/It is typically used when you want to create a new resource on the server
+
+put:put image/video in server //use for updating existung server//It is used primarily to update an existing resource on the server or to create a new resource if it doesn't exist
+
+patch:partially modification of resource in The server 
+
+delete:delete data in server
