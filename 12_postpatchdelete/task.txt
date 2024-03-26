@@ -1,0 +1,21 @@
+Design A REST APi on JSON Data
+
+
+
+GET/api/users - list all users
+
+GEt/api/User/1 || GET/User/2 - get the user widh ID 1 or ID 2
+
+/* dynamic path parameter
+
+GET/api/user/:id 
+here :id- variable ,dynamic
+
+
+POST/api/users- Create a new User
+
+PATCH/api/users/id- edit the user with id 1
+
+DELETE/api/users/1- delete the user with id 1
+
+

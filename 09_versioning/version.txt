@@ -1,0 +1,20 @@
+version:^4.18.3 || ~4.18.3
+
+
+{^:caret= this symbol use for lies the version between 4.0.0 t0 4.99.9. do not update the version 5 it means do not cross the version 4 || do not change the major /breaking update version
+
+~aproximatrly := do not change major and recomonded version 
+
+
+1st:4
+
+2nd:18
+
+3rd:3}
+
+3rd= minor changes (optional) 
+
+2nd= recomonded bug (Security Fix)
+
+3rd= major changes/breaking update
+

@@ -1,0 +1,8 @@
+restfull api:different from api , it have some rules 
+
+
+1. Always follow the client and server architecture:
+like if client(alexa,browser) alexa send then response in json format and if browser then send the response in the form of html
+
+3.respect all https method: post, get, patch,put ,delete:
+follow the methood principle like update and modify and delete can do in server by the help of post method  but this is not a restfull api work accoriding to method do their work
