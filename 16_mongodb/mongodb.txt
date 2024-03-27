@@ -1,0 +1,32 @@
+//** the basic diffrence between sql database and mongo database is , in sql we can store data in the form of relational format(table-row and column) but in case of mongo db we can store data in the form of BSON (binary json format)
+
+//**MongoDB	MySQL, supports unstructured data	and SQL, supports structured data with schemas
+
+//**in case of mongo db Limited document querying, no support for joins	but in SQL db for querying and advanced analytics functions
+
+
+//** Architecture:
+
+1.collection in mongo database- it is like a table in sql database 
+2.inside a collection there is document 
+
+ex:
+collectionuser >
+{
+  document-1
+}
+{
+  document-2
+}
+
+
+//**use
+install and set the enviornmental path , then open terminal and start type "mongosh"
+
+
+//**command
+>show dbs:show all databases
+>use <db name>:for using the db
+>show collection:show all collections in that db
+>db.collectionname.find({}):showing all document
+>db.collectionname.insert({}):inser data

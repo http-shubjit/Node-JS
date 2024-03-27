@@ -1,0 +1,18 @@
+
+//** import mongoes 
+const mongoes=require("mongoes")
+
+//**  connect with database
+mongoes.connect("url/dbname")
+
+//** define schema
+
+const schema=new mongoes.schema({
+
+})
+
+//** create a model using schema
+
+const model=mongoes.model("model",schema)
+
+//**apply crud operation using modal

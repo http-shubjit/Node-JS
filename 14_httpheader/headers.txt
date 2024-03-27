@@ -1,0 +1,7 @@
+header:in theoritically think about the postal letter.what we write surface of the letter like form and to date,loctaion,po,ps, etc... that is header
+
+** Header is the meta data of the request and response.like (details about the request such as what type of data)
+
+**Header-2type:
+1.build_in : ex:Content_Length-25
+2.custom : ex:x-myname-shubhajit 

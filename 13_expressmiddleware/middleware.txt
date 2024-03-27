@@ -1,0 +1,4 @@
+. middleware:in theoritically it is a function which job is check/verify the request and and response the request accroding to validation.it is like a trustworthy mediator between the client and server.we can use more than one middleware in our program. we can validate all the request 
+
+. we can create middleware in express by using app.use
+
